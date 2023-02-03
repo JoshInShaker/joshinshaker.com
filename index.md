@@ -1,5 +1,5 @@
 ---
-nav_title: home
+nav_title: Home
 ---
 
 Joshinshaker Technology Services is here to help you with all your technology needs, whether you're a small business or a home user. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly.
