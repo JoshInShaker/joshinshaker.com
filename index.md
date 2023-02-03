@@ -1,6 +1,7 @@
 ---
+nav_title: home
 ---
-## Your Trusted Source for IT Services
+
 Joshinshaker Technology Services is here to help you with all your technology needs, whether you're a small business or a home user. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly.
 
 From computer repairs and software installation to routine maintainence, we offer a wide range of services to help you stay connected and productive. Whether you're looking for a one-time repair or ongoing support, we've got you covered.
