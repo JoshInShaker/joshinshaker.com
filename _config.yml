@@ -24,7 +24,7 @@ description: "Technical support and information technology services for resident
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: Morpheus636/better-cayman
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
