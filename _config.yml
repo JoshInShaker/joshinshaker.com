@@ -24,7 +24,7 @@ description: "Technical support and information technology services for resident
 
 # Build settings
 markdown: kramdown
-remote_theme: Joshinshaker-Tech/jekyll-incorporated
+remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
