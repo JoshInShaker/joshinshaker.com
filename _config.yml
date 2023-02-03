@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Josh in Shaker IT
+title: JoshInShaker Technology Services
 email: support@joshinshaker.com
 description: "Technical support and information technology services for residential and small-businesses in and around Shaker Heights."
 
