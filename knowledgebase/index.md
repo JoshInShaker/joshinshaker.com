@@ -4,9 +4,6 @@ title: Knowledgebase
 description: "What can we help you with?"
 permalink: /knowledgebase
 ---
-<script src="https://desk.zoho.com/portal/api/feedbackwidget/825135000000309001?orgId=802301132&displayType=popout"></script>
-
-
 <script async src="https://cse.google.com/cse.js?cx=04fdfc9660334472b">
 </script>
 <div class="gcse-search"></div>
