@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-article
 exclude: True
 title: How do I map a network drive on a Windows PC?
 description: " "
@@ -21,3 +21,5 @@ description: " "
 8. If your username and password on the network server ar different from your username and password on your PC, click on the "Connect using different credentials" link and enter the appropriate username and password.
 
 9. Click "Finish" to complete the process. The network shared drive should now appear as a drive in File Explorer, and you can access its contents like any other drive on your computer.
+
+If you don't know the servername, sharedfoldername or your login credentials, open a ticket and we can help you find them.

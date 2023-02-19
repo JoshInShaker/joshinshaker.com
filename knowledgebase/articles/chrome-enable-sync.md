@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kb-article
 title: How do I sync my bookmarks in Google Chrome?
 description: " " 
 exclude: true
