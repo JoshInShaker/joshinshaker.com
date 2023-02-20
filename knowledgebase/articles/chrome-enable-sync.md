@@ -4,8 +4,6 @@ title: How do I sync my bookmarks in Google Chrome?
 description: " " 
 exclude: true
 ---
-# How to Enable Sync in Google Chrome
-
 1. Open Google Chrome on your computer.
 2. Click on the three-dot menu icon in the upper-right corner of the browser window.
 3. Select "Settings" from the drop-down menu.
