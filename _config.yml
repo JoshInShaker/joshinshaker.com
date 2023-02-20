@@ -22,7 +22,7 @@ title: JoshInShaker Technology Services
 email: support@joshinshaker.com
 description: "Technical support and information technology services for residential and small-businesses in and around Shaker Heights."
 logo: "https://raw.githubusercontent.com/JoshInShaker/branding/074a95cd55c3a2d824e4c368e6ac46ca3485f975/logo.svg"
-baseurl: "/"
+baseurl: "https://joshinshaker.com/"
 
 # Build settings
 markdown: kramdown
