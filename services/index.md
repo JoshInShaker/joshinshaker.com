@@ -3,7 +3,7 @@ layout: default
 title: Services
 permalink: /services
 ---
-# Services we offer
+# Services We Offer
 - Commercial and residential technical support
 - Computer setup
 - Software installation
