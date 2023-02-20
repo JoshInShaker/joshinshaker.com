@@ -42,4 +42,7 @@ and discounted rates, all designed to help you save time, money, and hassle.
 </table>
 
 
-{% include account_form.html %}
+# Open an account today!
+Contact us using the form below and ask about opening an account.
+
+{% include support-form.html %}

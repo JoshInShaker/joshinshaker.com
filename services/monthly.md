@@ -20,6 +20,6 @@ predictable, fixed fee.
 - Hardware maintainence and repairs.
 
 # How do I sign up?
-To ask about a monthly service plan or begin opening a monthly service account, fill out the form below.
+Contact us using the form below and ask about opening a montly service plan account.
 
-{% include account_form.html %}
+{% include support-form.html %}
