@@ -19,7 +19,7 @@ predictable, fixed fee.
 
 # How much does it cost?
 Plans start at $100/month and scale based on number of users and devices.
-Contact us below for an estimate.
+Contact us below for an estimate. Hardware costs not included.
 
 # How do I sign up?
 Contact us using the form below and ask about opening a montly service plan account.

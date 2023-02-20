@@ -40,7 +40,7 @@ and discounted rates, all designed to help you save time, money, and hassle.
     <td>$20</td>
   </tr>
 </table>
-
+Hardware costs not included.
 
 # Open an account today!
 Contact us using the form below and ask about opening an account.
