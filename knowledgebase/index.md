@@ -19,5 +19,5 @@ permalink: /knowledgebase
 </ul>
 
 # Not finding an answer?
-Contact us using the form below so we can help you find the solutions you need.
+Contact us so we can help you find the solutions you need.
 {% include support-form.html %}
