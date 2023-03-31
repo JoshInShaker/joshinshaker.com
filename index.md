@@ -3,11 +3,9 @@ layout: default
 nav_title: Home
 ---
 
-JoshInShaker Technology Services is here to help you with all your technology needs, whether you're a small business or a home user. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly.
+JoshInShaker Technology Services is here to help you with all your technology needs. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly. 
 
-From computer repairs and software installation to routine maintainence, we offer a wide range of services to help you stay connected and productive. Whether you're looking for a one-time repair or ongoing support, we've got you covered.
-
-Don't let technology problems slow you down. Let us take care of all your IT needs so you can focus on what really matters. Contact us today for a consultation and see how we can help your technology work for you.
+Don't let technology problems slow you down. Let us take care of all your IT needs so you can focus on what really matters: running your business. Contact us today for a consultation and see how we can help your technology work for you.
 
 # Services We Offer
 - Commercial and residential technical support
@@ -16,14 +14,7 @@ Don't let technology problems slow you down. Let us take care of all your IT nee
 - Network storage setup and administration
 
 # Monthly Service Plans
-Paying for IT support services on an hourly or a la carte basis can be
-unpredictable and can leave you feeling unsure about the final bill. 
-Our monthly service plans offer a more predictable and cost-effective
-approach to IT support. With a monthly plan, you can enjoy the peace of
-mind that comes with knowing that your technology needs are covered for
-a fixed fee. Our monthly service plans come with a range of
-benefits, including priority service, regular maintenance and check-ups,
-and discounted rates, all designed to help you save time, money, and hassle.
+Paying for IT support services on an hourly basis can be unpredictable. With a monthly plan, you can enjoy the peace of mind that comes with knowing that your technology needs are covered for a fixed fee. Our monthly service plans come with a range of benefits, including priority service, routine maintenance and discounted rates, all designed to help you save time, money, and hassle.
 
 [Learn more about our monthly service plans](/services/monthly)
 
