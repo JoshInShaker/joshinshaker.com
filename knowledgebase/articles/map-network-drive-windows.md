@@ -2,7 +2,7 @@
 layout: kb-article
 exclude: True
 title: How do I map a network drive on a Windows PC?
-description: " "
+excerpt: "Instructions for accessing a network storage server from a computer running Windows."
 ---
 1. First, ensure that your computer is connected to the network that the shared drive is on.
 

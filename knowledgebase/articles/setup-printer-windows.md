@@ -2,7 +2,7 @@
 layout: kb-article
 exclude: true
 title: How do I add a printer to a  Windows PC?
-description: " "
+excerpt: "Instructions for setting up a printer on a computer running Windows."
 ---
 1. Connect your printer to your computer using a USB cable or ensure that your printer is on the same Wi-Fi network as your computer.
 2. Open the "Settings" app by pressing the Windows key + I.

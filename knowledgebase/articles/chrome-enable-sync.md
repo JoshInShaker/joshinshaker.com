@@ -1,7 +1,8 @@
 ---
 layout: kb-article
 title: How do I sync my bookmarks in Google Chrome?
-description: " " 
+description: " "
+excerpt: "Instructions for enabling Google Chrome's sync feature to save bookmarks, browsing history, and other browser data between multiple devices." 
 exclude: true
 ---
 1. Open Google Chrome on your computer.
