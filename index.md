@@ -2,9 +2,7 @@
 layout: default
 nav_title: Home
 ---
-
-JoshInShaker Technology Services is here to help you with all your technology needs. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly. 
-
+JTS is here to help you with all your technology needs. With years of experience, we are dedicated to delivering fast and reliable solutions to keep your technology running smoothly. 
 Don't let technology problems slow you down. Let us take care of all your IT needs so you can focus on what really matters: running your business. Contact us today for a consultation and see how we can help your technology work for you.
 
 # Services We Offer
